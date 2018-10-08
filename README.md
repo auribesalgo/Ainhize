@@ -1,4 +1,4 @@
 # Git
 lehen aldaketa
 bigarren aldaketa
-oianozaeta
+oihanozaeta
